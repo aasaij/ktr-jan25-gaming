@@ -1,0 +1,15 @@
+//
+//structure definition syntax
+//
+//struct <tagName> {
+//	<datatype> <structure_member1>;
+//	<datatype> <structure_member2>;
+//	<datatype> <structure_member3>;
+//	....
+//}<struct_var1>,<struct_var2>,...,<struct_varN>;
+//
+//structure variable declaration syntax
+//struct <tagName> <variable>;
+//
+//accessing structure member syntax
+//	<struct_variable>.<membername> = <value>
